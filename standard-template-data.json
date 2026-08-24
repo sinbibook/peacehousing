@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-08-24T02:10:58.402328517Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-08-24T03:54:25.557740824Z",
     "templateType": "trip_c",
     "propertyId": "303c905e-64c4-4f3e-a555-1f0eeb537785",
     "homepageId": "efc504c0-a9b6-4d63-a260-cc6c1d9faf9c"
@@ -186,7 +186,7 @@
         "id": "fd9c5883-9d05-46f9-acdf-991e0cf32878",
         "name": "루프탑바베큐",
         "description": "루프탑 바베큐장이 마련되어 있습니다.\n아름다운 바다를 바라보며 맛있는 바베큐를 즐겨보세요.",
-        "usageGuide": " ",
+        "usageGuide": "루프탑 바베큐장이 마련되어 있습니다.\n아름다운 바다를 바라보며 맛있는 바베큐를 즐겨보세요.",
         "displayOrder": 3,
         "images": [
           {

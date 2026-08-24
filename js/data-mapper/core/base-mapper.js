@@ -101,8 +101,23 @@
   };
 
   // property.realtimeBookingId
+  // realtimeBookingId 는 "실시간예약링크" 같은 플레이스홀더/설명 문구가 그대로 들어올 수 있다.
+  // 그걸 href 로 쓰면 상대경로로 해석돼 404 페이지로 이동하므로,
+  // 실제 URL 로 보일 때만 링크로 취급하고 그 외에는 '#!'(비활성) 로 처리한다.
   BaseDataMapper.prototype.getBookingUrl = function () {
-    return this.getProperty().realtimeBookingId || '#!';
+    var raw = this.getProperty().realtimeBookingId;
+    if (typeof raw !== 'string') return '#!';
+
+    var v = raw.trim();
+    if (!v || v === '#!') return '#!';
+
+    if (/^https?:\/\//i.test(v)) return v;      // http(s)://...
+    if (/^\/\//.test(v)) return 'https:' + v;   // //도메인/...
+
+    // 프로토콜 없이 도메인만 들어온 경우(booking.example.com/abc)는 https 를 붙여준다
+    if (/^[a-z0-9-]+(\.[a-z0-9-]+)+(:\d+)?([\/?#]|$)/i.test(v)) return 'https://' + v;
+
+    return '#!';
   };
 
   // ── 이미지 헬퍼 ──────────────────────────────────────────
