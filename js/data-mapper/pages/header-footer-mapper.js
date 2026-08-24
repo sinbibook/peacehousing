@@ -230,13 +230,10 @@
     }
 
     // 업체 전화번호 (없으면 빈값) — HTML 정적 플레이스홀더 대신 JS
-    // [임시] property.contactPhone 매핑을 끄고 번호를 하드코딩한다.
-    //        원복 시 아래 하드코딩을 지우고 주석 처리된 매핑을 되살릴 것.
     var phoneEl = document.querySelector('[data-footer-phone]');
     if (phoneEl) {
-      // phoneEl.textContent = prop.contactPhone
-      //   ? '+ ' + prop.contactPhone : '';
-      phoneEl.textContent = '+ 070-4364-9402';
+      phoneEl.textContent = prop.contactPhone
+        ? '+ ' + prop.contactPhone : '';
     }
 
     // 사업자 정보 (없으면 빈값) — HTML 정적 플레이스홀더 대신 JS
