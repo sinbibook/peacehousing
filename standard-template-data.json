@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-08-24T03:54:25.557740824Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-20T09:09:00.857963480Z",
     "templateType": "trip_c",
     "propertyId": "303c905e-64c4-4f3e-a555-1f0eeb537785",
     "homepageId": "efc504c0-a9b6-4d63-a260-cc6c1d9faf9c"
@@ -15,12 +15,14 @@
     "address": "강원특별자치도 삼척시 삼척로 4246-62 (오분동) 삼척 피스하우징 스파 애견 펜션",
     "latitude": 37.4206811261047,
     "longitude": 129.195282141666,
-    "contactPhone": "010-9756-1614",
+    "contactPhone": [
+      "070-4364-9402"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19시 이후 체크인 시 사전문의 필수",
-    "usageGuide": "- 직접 조리하여 식사할 경우 물, 조미료 등 개인 지참 필수\n- 휴대용 가스버너 절대 사용 금지\n- 최근 펜션 단지 내에서 민원이 발생하여 펜션으로 들어오는 길에서는 반려견 산책이 불가함을 안내드립니다.\n- 해당 구간에서는 반려견 산책을 삼가해 주시기 바랍니다.\n- 펜션 내에서만 반려견과 함께 산책이 가능하며, 카페에서도 반려견 이용이 가능합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19시 이후 체크인 시 사전문의 필수\n\n[인원추가요금]\n※ 최대인원 초과 불가\n※ 영유아 인원 포함 여부 : 영유아 기준인원 포함 및 추가요금 발생\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 객실 내 이용\n- 바베큐 형태: 전기그릴 (자이글/안방그릴)\n- 이용 요금: 15,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~18:00\n- 이용 시간: 입실 후 ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n- 강풍 시 이용 가능\n※ 동계 및 우천 시 이용 가능(사계절)\n※ 옥탑 바베큐 이용가능\n※ 4인 기준 30,000원 인원 추가 비용 5,000원 (1인당) (1박기준/현장결제)\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 2만원 (1박기준/현장결제)\n- 제한 무게: 7kg\n- 제한 마릿수: 3 마리\n- 반려동물 허용 종류: 반려견만 가능\n- 제한 사항: 모든 견종 입실 가능\n- 애견 비품: 밥그릇, 물그릇, 배변패드, 배변봉투 등\n※ 마킹이 있거나 생리중인 반려견은 매너벨트, 기저귀 착용 필수\n※ 침구, 커텐, 소파 등의 오염 시 세탁비가 청구될 수 있습니다.\n※ 고객 부주의에 따른 사고 및 피해는 펜션에서 책임지지 않음을 알려드립니다.\n※ 카페 및 옥상 공간은 유모차, 캐리어, 케이지를 이용해 반려견을 동반해 주시기 바랍니다.\n\n[스파]\n- 이용 객실: 202호, 203호, 302호, 303호, 402호, 403호\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 스파 형태 : 제트 스파\n※ 온도 조절 가능\n※ 입욕제 사용 불가\n※ 애견 입수 불가\n\n[부대시설]\n[카페]\n- 1층 카페 피스하우징 (카페 이용시간: 10시~19시)\n※ 카페 및 옥상 공간은 유모차, 캐리어, 케이지를 이용해 반려견을 동반해 주시기 바랍니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 여부 - 있음\n- 넷플릭스 외 OTT 보유 여부 - 유튜브 가능\n- 넷플릭스 개인 계정 필요 여부 - 개인 계정 필요\n- 엘리베이터 보유 여부 - 있음\n\n[주변여행지]\n- 맹방해수욕장 차량 10분\n- 덕산항 차량 13분\n- 삼척해수욕장 차량 16분\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 주차 가능합니다.\n- 전기차 충전기 이용 가능\n※ 삼척역 맞은편 (차로 5분거리)\n\n[교통편]\n[찾아오는길(차량)]\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 강원특별자치도 삼척시 오분동 1-6\n- 도로명 주소 : 강원특별자치도 삼척시 삼척로 4246-62\n\n[찾아오는길(대중교통)]\n- 삼척종합버스터미널-242번버스 승차-오분동 하차-도보 약 20분-펜션도착",
+    "usageGuide": "[공지사항]\n- 직접 조리하여 식사할 경우 물, 조미료 등 개인 지참 필수\n- 휴대용 가스버너 절대 사용 금지\n- 최근 펜션 단지 내에서 민원이 발생하여 펜션으로 들어오는 길에서는 반려견 산책이 불가함을 안내드립니다.\n- 해당 구간에서는 반려견 산책을 삼가해 주시기 바랍니다.\n- 펜션 내에서만 반려견과 함께 산책이 가능하며, 카페에서도 반려견 이용이 가능합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19시 이후 체크인 시 사전문의 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 최대인원 초과 불가\n※ 영유아 인원 포함 여부 : 영유아 기준인원 포함 및 추가요금 발생\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 객실 내 이용\n- 바베큐 형태: 전기그릴 (자이글/안방그릴)\n- 이용 요금: 15,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~18:00\n- 이용 시간: 입실 후 ~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n- 강풍 시 이용 가능\n※ 동계 및 우천 시 이용 가능(사계절)\n※ 옥탑 바베큐 이용가능\n※ 4인 기준 30,000원 인원 추가 비용 5,000원 (1인당) (1박기준/현장결제)\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 2만원 (1박기준/현장결제)\n- 제한 무게: 7kg\n- 제한 마릿수: 3 마리\n- 반려동물 허용 종류: 반려견만 가능\n- 제한 사항: 모든 견종 입실 가능\n- 애견 비품: 밥그릇, 물그릇, 배변패드, 배변봉투 등\n※ 마킹이 있거나 생리중인 반려견은 매너벨트, 기저귀 착용 필수\n※ 침구, 커텐, 소파 등의 오염 시 세탁비가 청구될 수 있습니다.\n※ 고객 부주의에 따른 사고 및 피해는 펜션에서 책임지지 않음을 알려드립니다.\n※ 카페 및 옥상 공간은 유모차, 캐리어, 케이지를 이용해 반려견을 동반해 주시기 바랍니다.\n\n[스파]\n- 이용 객실: 202호, 203호, 302호, 303호, 402호, 403호\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 스파 형태 : 제트 스파\n※ 온도 조절 가능\n※ 입욕제 사용 불가\n※ 애견 입수 불가\n\n[부대시설]\n[카페]\n- 1층 카페 피스하우징 (카페 이용시간: 10시~19시)\n※ 카페 및 옥상 공간은 유모차, 캐리어, 케이지를 이용해 반려견을 동반해 주시기 바랍니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 여부 - 있음\n- 넷플릭스 외 OTT 보유 여부 - 유튜브 가능\n- 넷플릭스 개인 계정 필요 여부 - 개인 계정 필요\n- 엘리베이터 보유 여부 - 있음\n\n[주변여행지]\n- 맹방해수욕장 차량 10분\n- 덕산항 차량 13분\n- 삼척해수욕장 차량 16분\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 주차 가능합니다.\n- 전기차 충전기 이용 가능\n※ 삼척역 맞은편 (차로 5분거리)\n\n[교통편]\n[찾아오는길(차량)]\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 강원특별자치도 삼척시 오분동 1-6\n- 도로명 주소 : 강원특별자치도 삼척시 삼척로 4246-62\n\n[찾아오는길(대중교통)]\n- 삼척종합버스터미널-242번버스 승차-오분동 하차-도보 약 20분-펜션도착",
     "reservationGuide": "- 직접 조리하여 식사할 경우 물, 조미료 등 개인 지참 필수\n- 휴대용 가스버너 절대 사용 금지\n- 최근 펜션 단지 내에서 민원이 발생하여 펜션으로 들어오는 길에서는 반려견 산책이 불가함을 안내드립니다.\n- 해당 구간에서는 반려견 산책을 삼가해 주시기 바랍니다.\n- 펜션 내에서만 반려견과 함께 산책이 가능하며, 카페에서도 반려견 이용이 가능합니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -542,7 +544,7 @@
           {
             "id": "5a1f61b7-b555-4d5b-b59f-14bdeab3df0a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/mgOejhXYSsEy.jpg",
-            "sortOrder": 0,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -552,7 +554,7 @@
           {
             "id": "d20acb6c-2919-4049-8298-a528b8a59853",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/7B2qskfPdHjw.jpg",
-            "sortOrder": 0,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -560,7 +562,7 @@
           {
             "id": "be8f3f7a-afa0-49a2-a065-2935cf9887fc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/5tXOPAnvybFr.jpg",
-            "sortOrder": 1,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -568,7 +570,7 @@
           {
             "id": "90ad0259-ec4c-432c-ba6d-beda3180cbdf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/MbHFgdU1vI28.jpg",
-            "sortOrder": 2,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -576,7 +578,7 @@
           {
             "id": "b9cf38e3-5313-4693-9d22-fd269b3faed6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/MkjqoP5dc4El.jpg",
-            "sortOrder": 3,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -584,7 +586,7 @@
           {
             "id": "c0be3be8-29ca-48f1-9500-7a2588c05fc5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/8M2RbUZokycI.jpg",
-            "sortOrder": 4,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -592,7 +594,7 @@
           {
             "id": "d3762624-f6e8-450d-b672-4c5b8d08cf01",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/du63sTGPcoeZ.jpg",
-            "sortOrder": 5,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -600,7 +602,7 @@
           {
             "id": "e4a60158-1fce-4561-803f-784002e31d5d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/oxkUuvtcSfNe.jpg",
-            "sortOrder": 6,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -608,7 +610,7 @@
           {
             "id": "cb72079f-e07d-4000-8bd5-3d4d861e4405",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/Hp7Res5xiFrq.jpg",
-            "sortOrder": 7,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -617,7 +619,10 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ]
+    ],
+    "tripPropertyId": "6430",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐"
   },
   "rooms": [
     {
@@ -1649,8 +1654,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "956219ea-7f25-45cc-b1eb-558ec0a6d3ad",
-                    "url": "https://peacehousing.kr/assets/images/view/2.webp",
+                    "id": "01a15892-3018-77c7-9762-107957f25033",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/index_signature/1792487337285-szm0v8vmd6.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1679,8 +1684,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "38a39aad-5089-4ef9-ba52-4350550373b4",
-                    "url": "https://peacehousing.kr/assets/images/view/2.webp",
+                    "id": "01a15892-3139-7a6a-a3e3-d85e149b82de",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/directions_hero/1792487337386-gtcwwgqrzc.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1703,72 +1708,72 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "25abddf9-d413-4e6b-88bd-1eb081126d0a",
-                    "url": "https://peacehousing.kr/assets/images/view/1.webp",
+                    "id": "01a15892-307f-76ca-944f-2f73c8476611",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337285-00k8usa0a7.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "830368c6-7527-4b40-af2f-78c0a789c67d",
-                    "url": "https://peacehousing.kr/assets/images/view/2.webp",
+                    "id": "01a15892-315a-756e-8ef6-f4e3948979c2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337465-ccawytudv1.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "b49f39da-f1cb-444b-aae5-47a2504fa4f6",
-                    "url": "https://peacehousing.kr/assets/images/view/3.webp",
+                    "id": "01a15892-314b-7ab5-a2d3-2aa5481dc054",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337384-p5522fvooh.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "b1b8c1b2-fc94-49de-b6f1-23abb8cbfc3e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1787536376637-jbe4stzzmf.webp",
+                    "id": "01a15892-314a-7eef-875a-5cf47e5d7790",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337364-pkrtuaz0ob.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "d85ee31b-fe51-4b94-9310-1f03bcdb1535",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1787536376839-yq6q6n6jkh.webp",
+                    "id": "01a15892-30d7-7410-b7aa-b62d3d49e5da",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337384-z081o3esy9.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "cf47f005-1bc1-4709-8838-22975e634c74",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1787536376846-an293bzuq8.webp",
+                    "id": "01a15892-3013-78e9-8631-0fd8c8988ff7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337287-h2iauti87v.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "7eb0cb8b-5a78-4700-ad9d-5b8dc8c51c15",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1787536377342-ayo4dnemw8.webp",
+                    "id": "01a15892-3074-79ee-bdfc-c0f3f3783e6a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337289-9zaqifxrb7.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "67c54cb5-b850-4430-9721-ae7b0d3a1aa2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1787536377336-80g8698zl6.webp",
+                    "id": "01a15892-313a-7b8b-b6c7-9bce040682d6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337382-4sitcrvfwz.jpg",
                     "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "beaa6a04-5d88-4d0d-ba7c-c92c211a09bc",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1787536377346-25sf3r4nse.webp",
+                    "id": "01a15892-3075-7bce-8c3c-0c92f5ec480c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_hero/1792487337387-omgnlvhk7g.jpg",
                     "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
@@ -1782,8 +1787,8 @@
                   "title": "쉼이 필요한 날,\n삼척 피스하우징 스파 애견 동반 펜션을 만나다",
                   "images": [
                     {
-                      "id": "b7bf5e0c-cf03-492b-8df6-3e0223e4c9fe",
-                      "url": "https://peacehousing.kr/assets/images/view/2.webp",
+                      "id": "01a15892-313d-7060-8bda-5ad9cd50681e",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/main_about/1792487337488-pijiqxu4r8.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
@@ -2057,6 +2062,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -2074,8 +2082,8 @@
         "name": "삼척 피스하우징 스파 애견 동반 펜션",
         "images": [
           {
-            "id": "618f17f0-8375-4f8d-8402-0ebcaca3f239",
-            "url": "https://peacehousing.kr/assets/images/view/2.webp",
+            "id": "01a15892-3147-79e1-b39c-bcab5550b8df",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337481-xywpr4fhvc.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -2083,8 +2091,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "0d954497-bb8a-4eda-820c-8f93e63cdb52",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379136-g2kzangftl.jpg",
+            "id": "01a15892-30d8-7f5c-8e1e-e29e0e036bac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337484-pa83fkfjy0.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -2092,8 +2100,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "b480a0ce-a01b-4651-9165-ce966b67a060",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379148-yeyt5le5u6.jpg",
+            "id": "01a15892-30d8-765e-97e5-226f5fe87b68",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337487-paonh6ejcu.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -2101,8 +2109,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "28f12d0a-686b-47d4-874a-f194b194faa4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379428-w0kd3qgnxm.jpg",
+            "id": "01a15892-31d7-7f5c-ab53-ac8daca89854",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337582-g3i7oyum9h.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
@@ -2110,8 +2118,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "76902f04-62ed-42b6-a9e3-cc4458400877",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379457-6fmcqgzaj4.jpg",
+            "id": "01a15892-3199-7a72-a6d9-c4cdc575d9f7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337487-ceunhrd57j.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
@@ -2119,8 +2127,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "9ba5f387-4968-4e59-b43b-2f7f86aac7b2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379672-5mu3u3umx2.webp",
+            "id": "01a15892-3195-743a-898d-6e9cb5ebac65",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337564-d6ozro2iqb.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
@@ -2128,8 +2136,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "67e3bfa5-a2e8-4dbc-9999-085907faea3b",
-            "url": "https://peacehousing.kr/assets/images/view/2.webp",
+            "id": "01a15892-3146-7b25-b09d-99080838aef2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337579-obuzysl41l.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
@@ -2137,8 +2145,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "9cd62bb7-602f-4b8c-a130-48534c8cec2f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379136-g2kzangftl.jpg",
+            "id": "01a15892-31a3-7ba5-8d89-2160cc8748fb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337567-h42xo4qpun.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
@@ -2146,36 +2154,9 @@
             "category": "property_exterior"
           },
           {
-            "id": "97f7a664-82ed-4191-90f7-f84abd183b5a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379148-yeyt5le5u6.jpg",
+            "id": "01a15892-3154-7fac-b4d8-481e49a90368",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1792487337583-9dzjs21a29.jpg",
             "sortOrder": 8,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "87784f77-b8c2-4693-87a0-78d9b985185b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379428-w0kd3qgnxm.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "5764ad18-5799-4756-879f-46188f518341",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379457-6fmcqgzaj4.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true,
-            "blockId": null,
-            "category": "property_exterior"
-          },
-          {
-            "id": "308895d2-0c3a-4dc8-a69e-820213418a82",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/efc504c0-a9b6-4d63-a260-cc6c1d9faf9c/property_exterior/1787536379672-5mu3u3umx2.webp",
-            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null,
